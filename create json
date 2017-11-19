@@ -1,0 +1,18 @@
+{
+  "gateway_conf": {
+    "gateway_ID": "B827EBFFFE931B31",
+    "servers": [
+      {
+        "server_address": "router.eu.thethings.network",
+        "serv_port_up": 9292,
+        "serv_port_down": 9292,
+        "serv_enabled": true
+      }
+    ],
+    "ref_latitude": 35.23507569,
+    "ref_longitude": 129.08274328,
+    "ref_altitude": 40,
+    "contact_email": "shenghao@mobile.re.kr",
+    "description": "INC-ttn"
+  }
+}
